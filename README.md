@@ -6,9 +6,11 @@ Netscape fue un navegador web creado por Marc Andreessen en 1994, fue el primer 
 ![Imagen Marc Andreessen y netscape](https://github.com/paulamoreno27/SMX2-M8UF1A1-HistoriaWeb-a-o-NetscapeNavigator-PaulaMoreno/blob/main/Captura%20de%20pantalla%202023-10-05%20220536.png "Imagen Marc andreessen y netscape")
 
 
+
 **¿QUE PASÓ CON NETSCAPE NAVIGATOR?**
 Lo que paso fue que en el 2008 Netscape soltó su última versión y desapareció del mercado ya que perdió su posición dominante en el mercado de navegadores, debido a la competencia que había entre Netscape y Microsoft. 
 ![Imagen Netscape 9 y netscape vs explorer](https://github.com/paulamoreno27/SMX2-M8UF1A1-HistoriaWeb-a-o-NetscapeNavigator-PaulaMoreno/blob/main/Captura%20de%20pantalla%202023-10-05%20221433.png "Imagen Netscape 9 y netscape vs explorer")
+
 
 
 **INFORMACIÓN EXTRA:**
