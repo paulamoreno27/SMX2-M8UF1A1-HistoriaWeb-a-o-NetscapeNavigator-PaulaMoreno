@@ -3,7 +3,7 @@
 
 **¿QUE ES NETSCAPE NAVIGATOR?**
 Netscape fue un navegador web creado por Marc Andreessen en 1994, fue el primer navegador comercial de la compañia Netscape Communications.
-![Logo Netscape Navigator](https://github.com/paulamoreno27/repositorio2/blob/main/papieladio.jpg "Logo Netscape Navigator")
+![Logo Netscape Navigator](https://github.com/paulamoreno27/SMX2-M8UF1A1-HistoriaWeb-a-o-NetscapeNavigator-PaulaMoreno/blob/main/foto%20logo%20netscape.webp"Logo Netscape Navigator")
 
 **¿QUE PASÓ CON NETSCAPE NAVIGATOR?**
 Lo que paso fue que en el 2008 Netscape soltó su ultima versión y desapareció del mercado ya que perdió su posicion dominante en el mercado de navegadores, debido a la competencia que habia entre Netscape y Microsoft.
