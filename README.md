@@ -6,7 +6,7 @@
 1. ¿Qué es Netscape Navigator?
 2. ¿Qué pasó con Netscape Navigator?
 3. Información extra
-
+```
 
 
 
